@@ -1,19 +1,11 @@
-# Module 3 Group Assignment: Note-a-matic
+# Note-a-matic
 
-CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/d/13q79EywC9TzWts9K-10b_tKA-ZVyv9_avWGJpgprA6A)
+### Authors
 
-## App Info:
-
-* Team Name: val=n
-* App Name: Notes
-* App Link: <https://pacific-sierra-76882.herokuapp.com/>
-
-### Students
-
+* Vaybhav Shaw, shaw0162@umn.edu
 * Lakshya Goel, goel0072@umn.edu
 * Nishka Monteiro, monte299@umn.edu
 * Akifumi Nakamachi, nakam052@umn.edu
-* Vaybhav Shaw, shaw0162@umn.edu
 
 
 ## Key Features
